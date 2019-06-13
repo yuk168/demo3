@@ -5,6 +5,7 @@ import org.junit.Test;
 /**
  * cglib的动态代理
  * 第三方的
+ * 需要导入一个cglib的jar包
  * 在没有接口的情况下
  * @author Administrator
  *
