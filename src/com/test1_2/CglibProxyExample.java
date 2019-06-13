@@ -1,4 +1,4 @@
-package com.test2;
+package com.test1_2;
 
 import java.lang.reflect.Method;
 
